@@ -7,8 +7,8 @@
 	<artifactId>jquery-sparklines-lib</artifactId>
 	<version>2.1.2-SNAPSHOT</version>
 
-	<name>JQuery Library</name>
-	<description>JQuery Library for GWT</description>
+	<name>JQuery Sparklines Library</name>
+	<description>JQuery Sparklines Library for GWT</description>
 	<url>https://github.com/gjordi/gwt-jquery-sparklines-lib</url>
 
 	<organization>
