@@ -1,0 +1,2 @@
+gwt-jquery-sparklines-lib
+=========================
