@@ -1,0 +1,14 @@
+<module>
+
+	<!-- Required modules -->
+	<inherits name="com.bytebybyte.gwt.jquery.JQueryLib" />
+
+	<!-- Style sheets -->
+	<stylesheet src="sparklines/css/sparklines.css" />
+
+	<!-- Source paths -->
+	<source path="client" />
+
+	<!-- Entry point -->
+	<entry-point class="com.bytebybyte.gwt.jquery.sparklines.client.JQuerySparklinesConfigurerEntryPoint" />
+</module>
