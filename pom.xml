@@ -1,11 +1,10 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.bytebybyte.gwt</groupId>
 	<artifactId>jquery-sparklines-lib</artifactId>
-	<version>2.1.2-SNAPSHOT</version>
+	<version>2.1.2</version>
 
 	<name>JQuery Sparklines Library</name>
 	<description>JQuery Sparklines Library for GWT</description>
@@ -46,7 +45,8 @@
 		<connection>scm:git:git@github.com:gjordi/gwt-jquery-sparklines-lib.git</connection>
 		<developerConnection>scm:git:git@github.com:gjordi/gwt-jquery-sparklines-lib.git</developerConnection>
 		<url>git@github.com:gjordi/gwt-jquery-sparklines-lib.git</url>
-	</scm>
+	  <tag>jquery-sparklines-lib-2.1.2</tag>
+  </scm>
 
 	<issueManagement>
 		<system>github</system>
