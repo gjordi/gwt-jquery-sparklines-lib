@@ -32,7 +32,7 @@
 			<version>${gwtVersion}</version>
 			<scope>provided</scope>
 		</dependency>
-		
+
 		<dependency>
 			<groupId>com.bytebybyte.gwt</groupId>
 			<artifactId>jquery-lib</artifactId>
@@ -45,8 +45,8 @@
 		<connection>scm:git:git@github.com:gjordi/gwt-jquery-sparklines-lib.git</connection>
 		<developerConnection>scm:git:git@github.com:gjordi/gwt-jquery-sparklines-lib.git</developerConnection>
 		<url>git@github.com:gjordi/gwt-jquery-sparklines-lib.git</url>
-	  <tag>HEAD</tag>
-  </scm>
+		<tag>HEAD</tag>
+	</scm>
 
 	<issueManagement>
 		<system>github</system>
